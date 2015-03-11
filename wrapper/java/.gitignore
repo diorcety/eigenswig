@@ -1,0 +1,5 @@
+build/
+doc/
+src/
+*.cpp
+*.h
